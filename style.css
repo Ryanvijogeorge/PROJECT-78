@@ -1,0 +1,22 @@
+body {
+    background-color: coral;
+}
+
+h1 {
+    font-family:fantasy;
+    font-variant: small-caps;
+    color:firebrick;
+}
+
+h4 {
+color:green;
+font-family: fantasy;
+font-size: 22px;
+}
+  
+button {
+    border-width: 0px;
+    color: red;
+    font-size: 20px;
+    width: 75px;
+}
